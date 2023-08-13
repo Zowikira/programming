@@ -1,0 +1,20 @@
+body{
+    font-family: 'Preahvihear',sans-serif;
+    font-size: 150%;
+    background-image: url('graphics-design-illustration-digital-circuit-with-binary-coded-decimal-diagram-technology-for-background-wallpaper-illustration-free-vector.jpg');
+    color: gold;
+}
+.button{
+    font-family: 'ABeeZee',sans-serif;
+    font-size: 200%;
+    border-radius: 60px;
+    border: 5px solid grey;
+    color: black;
+    background-color: aliceblue;
+    text-decoration: none;
+}
+.flex-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
